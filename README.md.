@@ -1,0 +1,10 @@
+# Wallet Scanner 🕵️‍♂️💰
+
+A simple Node.js tool to scan native ETH balances using Ethers.js and a public RPC.
+
+## 🛠️ Setup
+
+1. Clone the repo  
+2. Install dependencies:
+   ```bash
+   npm install
